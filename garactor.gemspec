@@ -5,6 +5,7 @@ Gem::Specification.new do |spec|
   spec.version       = Garactor::VERSION
   spec.authors       = ["Tadashi Saito"]
   spec.email         = ["tad.a.digger@gmail.com"]
+  spec.license       = 'AGPL-3.0-or-later'
 
   spec.summary       = %q{To keep name.}
   spec.description   = spec.summary
